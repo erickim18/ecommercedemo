@@ -3,4 +3,4 @@ export const SERVERLESS_URL =
     ? "http://localhost:3000/"
     : "https://pw7qlnw947.execute-api.us-east-1.amazonaws.com/dev/";
 
-export const STRIPE_PUBLIC_KEY = "pk_test_1iTFwZJKp8OaiT6gHLYfmIAo";
+export const STRIPE_PUBLIC_KEY = "pk_test_QUiEFibAIKom4xN84kLqbPJv";
