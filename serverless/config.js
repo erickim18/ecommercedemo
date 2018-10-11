@@ -1,3 +1,3 @@
 module.exports = {
-  stripeSecretKey: "sk_test_UmeVgeUGsPx1lR0QKq5bCpkC"
+  stripeSecretKey: "sk_test_sNBGqOGqdWJztBnXZEOesM3K"
 };
